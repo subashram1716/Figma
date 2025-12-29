@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 home page
 
 <!DOCTYPE html>
@@ -507,7 +508,7 @@ end of the page
   letter-spacing: 0;
   line-height: normal;
 }
-
+```
 
 
 
