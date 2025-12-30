@@ -1,4 +1,4 @@
-# Ex09 Event Registration Web Application
+# Ex08 Event Registration Web Application
 ## Date:25/12/2025
 
 ## AIM:
